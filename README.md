@@ -3,7 +3,7 @@
 A simple, interactive web-based syllabus tracker designed to monitor progress for the UPSC 2027 Civil Services Examination.
 
 ## 🚀 Live Demo
-You can view the live project here: [https://alam-preparation-tracker.netlify.app](https://alam-prepration-tracker.netlify.app)
+You can view the live project here: [live Demo] [https://alam-preparation-tracker.netlify.app](https://alam-prepration-tracker.netlify.app)
 
 ## 🛠️ Tech Stack
 - **HTML5**: For structured content and syllabus organization.
