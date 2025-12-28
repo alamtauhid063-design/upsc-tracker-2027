@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+.subjects {
+    
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.subject{
+    flex: 1;
+}
+.subjects h2 {
+    text-align: center;
+}
+.subject ol{
+    list-style: none;
+    padding: 0;
+}
+.subjects li{
+    margin: 2px 0;
+}
+p {
+    font-size: xx-large;
+}
+footer{
+    font-size: x-large;
+}
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("emblem.png") no-repeat center;
+  background-size: 300px;
+  opacity: 0.08;
+  z-index: -1;
+}
+
